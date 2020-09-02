@@ -10,7 +10,7 @@ export default () => {
       <h2>Compra Exitosa</h2>
       <p>Espero que disfrutes tu swag, lucelo con orgullo</p>
       <p>¡Te esperamos de vuelta, no pares de aprender!</p>
-      <span rol='img' aria-label='emoji'> ❤</span>
+      <span role='img' aria-label='emoji'> ❤</span>
       <Link ti='/'>
         <Button>Volver al Catalogo</Button>
       </Link>
